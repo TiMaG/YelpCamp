@@ -11,7 +11,7 @@ A fullstack project from the Udemy course "The Web Developer Bootcamp 2022" by C
 
 
 # Demo
-<a href="https://yelpcamp-d1tm.onrender.com/" target="_blank">Click me</a> to view the demo
+<a href="https://yelp-camp-ashen.vercel.app" target="_blank">Click me</a> to view the demo
 
 <ul>
 <li>Username: testuser</li>
